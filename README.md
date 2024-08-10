@@ -1,4 +1,4 @@
-# Health-Insurance-Coverage
+# Health-Insurance-Coverage v1.00
 Project Overview
 This project aims to analyze and visualize health insurance coverage data for different states in the United States from 2010 to 2016. The dataset includes various metrics such as uninsured rates, health insurance coverage changes, Medicaid and Medicare enrollments, and more. The goal is to provide insights into the trends and patterns in health insurance coverage over time.
 
